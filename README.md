@@ -17,9 +17,7 @@ This repository serves multiple purposes:
 **Getting Started:**
 To explore this repository:
 
-1. Clone the repository:
-
-  git clone https://github.com/YourGitHubUsername/BS-Data-Science-Repository.git
+1. Clone the repository:    git clone https://github.com/malikharisahmad/My-Data-Science-Archive.git
 
 2. Navigate to the desired course folder to view the materials.
 
@@ -29,4 +27,4 @@ This repository is a personal archive, and contributions are not accepted. Howev
 **Contact:**
 If you have any questions or feedback, feel free to reach out:
 1. Email: meharisahmad@gmail.com
-2. LinkedIn: Your LinkedIn Profile
+2. LinkedIn: https://www.linkedin.com/in/haris-ahmad-00a6352a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCYeQYpjcSRuQRmF9x%2Bdy%2Bg%3D%3D
